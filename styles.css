@@ -319,6 +319,45 @@ footer {
 .application-card h3 {
     color: var(--primary-color);
     margin-bottom: 1rem;
+    font-size: 1.4rem;
+}
+
+.features-list {
+    list-style: none;
+    padding: 0;
+    margin-top: 1.5rem;
+}
+
+.features-list li {
+    padding: 0.5rem 0;
+    position: relative;
+    padding-left: 1.5rem;
+}
+
+.features-list li:before {
+    content: "→";
+    position: absolute;
+    left: 0;
+    color: var(--primary-color);
+}
+
+.application-card {
+    background: var(--light-gray);
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transition: all 0.3s ease;
+}
+
+.application-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+.application-card p {
+    color: var(--text-color);
+    margin: 1rem 0;
+    line-height: 1.6;
 }
 
 .technology-grid {
