@@ -7,6 +7,44 @@
     "technology": "Technologia",
     "contact": "Kontakt"
   },
+  "products": {
+    "title": "Nasze Produkty",
+    "essential": {
+      "title": "MediaInspect Edge Essential",
+      "description": "Podstawowy system do inteligentnej analityki wideo",
+      "feature1": "Lokalne przetwarzanie wideo",
+      "feature2": "Podstawowa detekcja obiektów",
+      "feature3": "Powiadomienia o zdarzeniach"
+    },
+    "professional": {
+      "title": "MediaInspect Edge Professional",
+      "description": "Zaawansowane rozwiązanie do analityki wideo",
+      "feature1": "Zaawansowana analiza zachowań",
+      "feature2": "Obsługa wielu kamer",
+      "feature3": "Niestandardowe scenariusze detekcji"
+    },
+    "enterprise": {
+      "title": "MediaInspect Edge Enterprise",
+      "description": "Kompleksowe rozwiązanie dla przedsiębiorstw",
+      "feature1": "Nieograniczona liczba kamer",
+      "feature2": "Zaawansowana analityka AI",
+      "feature3": "Integracja z systemami firmowymi"
+    },
+    "cta": {
+      "demo": "Zamów prezentację"
+    }
+  }
+}
+
+
+{
+  "nav": {
+    "home": "Strona główna",
+    "about": "O nas",
+    "products": "Produkty",
+    "technology": "Technologia",
+    "contact": "Kontakt"
+  },
   "hero": {
     "title": "Telemonit",
     "subtitle": "Inteligentna Analityka Wideo",
