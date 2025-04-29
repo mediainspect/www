@@ -4,68 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Telemonit - Implementation & Support</title>
-    <link rel="stylesheet" href="../styles.css">
-</head>
-<body>
-    <div class="language-selector">
-        <select id="languageSelect" onchange="changeLanguage(this.value)">
-            <option value="en">English</option>
-            <option value="de">Deutsch</option>
-            <option value="pl">Polski</option>
-            <option value="ru">Русский</option>
-        </select>
-    </div>
-    <header>
-        <nav>
-            <div class="logo">
-                <img src="../images/logo.png" alt="Telemonit">
-            </div>
-            <ul>
-                <li><a href="../index.html" data-i18n="nav.home">Home</a></li>
-                <li><a href="about.html" data-i18n="nav.about">About</a></li>
-                <li><a href="products.html" data-i18n="nav.products">Products</a></li>
-                <li><a href="technology.html" data-i18n="nav.technology">Technology</a></li>
-                <li><a href="applications.html" data-i18n="nav.applications">Applications</a></li>
-                <li><a href="implementation.html" data-i18n="nav.implementation">Implementation</a></li>
-                <li><a href="contact.html" data-i18n="nav.contact">Contact</a></li>
-            </ul>
-        </nav>
-    </header>
-
-    <main>
-        <section class="page-content">
-            <h1 data-i18n="implementation.title">Implementation & Support</h1>
-            <div class="implementation-grid">
-                <div class="implementation-card">
-                    <h3 data-i18n="implementation.consultation.title">Consultation</h3>
-                    <p data-i18n="implementation.consultation.description">Expert analysis of your requirements</p>
-                </div>
-                <div class="implementation-card">
-                    <h3 data-i18n="implementation.deployment.title">Deployment</h3>
-                    <p data-i18n="implementation.deployment.description">Professional system installation</p>
-                </div>
-                <div class="implementation-card">
-                    <h3 data-i18n="implementation.training.title">Training</h3>
-                    <p data-i18n="implementation.training.description">Comprehensive staff training</p>
-                </div>
-                <div class="implementation-card">
-                    <h3 data-i18n="implementation.support.title">Support</h3>
-                    <p data-i18n="implementation.support.description">24/7 technical support</p>
-                </div>
-            </div>
-        </section>
-    </main>
-
-    <script src="../js/i18n.js"></script>
-</body>
-</html>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Telemonit - Implementation & Support</title>
+    <title>Implementation & Support - Telemonit</title>
     <link rel="stylesheet" href="../styles.css">
 </head>
 <body>
@@ -99,46 +38,108 @@
         <section class="page-content">
             <h1 data-i18n="implementation.title">Implementation & Support</h1>
             
+            <div class="implementation-intro">
+                <p data-i18n="implementation.intro">We provide comprehensive implementation support from initial consultation to deployment and ongoing maintenance.</p>
+            </div>
+
             <div class="implementation-grid">
                 <div class="implementation-card">
                     <h3 data-i18n="implementation.consultation.title">Consultation</h3>
-                    <p data-i18n="implementation.consultation.description">Expert analysis of your requirements</p>
-                    <ul class="features-list">
-                        <li>Needs assessment</li>
-                        <li>Solution design</li>
-                        <li>ROI analysis</li>
+                    <p data-i18n="implementation.consultation.description">Expert requirements analysis</p>
+                    <ul class="implementation-steps">
+                        <li data-i18n="implementation.consultation.step1">Initial needs assessment</li>
+                        <li data-i18n="implementation.consultation.step2">Site survey and technical analysis</li>
+                        <li data-i18n="implementation.consultation.step3">Custom solution design</li>
+                        <li data-i18n="implementation.consultation.step4">ROI projection and planning</li>
                     </ul>
                 </div>
 
                 <div class="implementation-card">
                     <h3 data-i18n="implementation.deployment.title">Deployment</h3>
                     <p data-i18n="implementation.deployment.description">Professional system installation</p>
-                    <ul class="features-list">
-                        <li>Hardware setup</li>
-                        <li>Software configuration</li>
-                        <li>Integration with existing systems</li>
+                    <ul class="implementation-steps">
+                        <li data-i18n="implementation.deployment.step1">Hardware setup and optimization</li>
+                        <li data-i18n="implementation.deployment.step2">Software configuration and integration</li>
+                        <li data-i18n="implementation.deployment.step3">Camera positioning and tuning</li>
+                        <li data-i18n="implementation.deployment.step4">Comprehensive testing</li>
                     </ul>
                 </div>
 
                 <div class="implementation-card">
                     <h3 data-i18n="implementation.training.title">Training</h3>
                     <p data-i18n="implementation.training.description">Comprehensive staff training</p>
-                    <ul class="features-list">
-                        <li>Admin training</li>
-                        <li>User workshops</li>
-                        <li>Documentation</li>
+                    <ul class="implementation-steps">
+                        <li data-i18n="implementation.training.step1">System operation training</li>
+                        <li data-i18n="implementation.training.step2">Alert management procedures</li>
+                        <li data-i18n="implementation.training.step3">Administration and configuration</li>
+                        <li data-i18n="implementation.training.step4">Documentation and resources</li>
                     </ul>
                 </div>
 
                 <div class="implementation-card">
-                    <h3 data-i18n="implementation.support.title">Support</h3>
-                    <p data-i18n="implementation.support.description">24/7 technical support</p>
-                    <ul class="features-list">
-                        <li>Maintenance services</li>
-                        <li>Remote diagnostics</li>
-                        <li>Regular updates</li>
+                    <h3 data-i18n="implementation.support.title">Ongoing Support</h3>
+                    <p data-i18n="implementation.support.description">Continuous maintenance and assistance</p>
+                    <ul class="implementation-steps">
+                        <li data-i18n="implementation.support.step1">24/7 technical support</li>
+                        <li data-i18n="implementation.support.step2">Regular software updates</li>
+                        <li data-i18n="implementation.support.step3">Performance monitoring</li>
+                        <li data-i18n="implementation.support.step4">System expansion assistance</li>
                     </ul>
                 </div>
+            </div>
+
+            <div class="implementation-process">
+                <h2 data-i18n="implementation.process.title">Our Implementation Process</h2>
+                <div class="process-steps">
+                    <div class="process-step">
+                        <div class="step-number">1</div>
+                        <div class="step-content">
+                            <h4 data-i18n="implementation.process.step1.title">Assessment</h4>
+                            <p data-i18n="implementation.process.step1.description">We analyze your requirements and current infrastructure</p>
+                        </div>
+                    </div>
+                    <div class="process-step">
+                        <div class="step-number">2</div>
+                        <div class="step-content">
+                            <h4 data-i18n="implementation.process.step2.title">Design</h4>
+                            <p data-i18n="implementation.process.step2.description">We create a customized solution tailored to your needs</p>
+                        </div>
+                    </div>
+                    <div class="process-step">
+                        <div class="step-number">3</div>
+                        <div class="step-content">
+                            <h4 data-i18n="implementation.process.step3.title">Implementation</h4>
+                            <p data-i18n="implementation.process.step3.description">Professional installation and system configuration</p>
+                        </div>
+                    </div>
+                    <div class="process-step">
+                        <div class="step-number">4</div>
+                        <div class="step-content">
+                            <h4 data-i18n="implementation.process.step4.title">Testing</h4>
+                            <p data-i18n="implementation.process.step4.description">Thorough testing and quality assurance</p>
+                        </div>
+                    </div>
+                    <div class="process-step">
+                        <div class="step-number">5</div>
+                        <div class="step-content">
+                            <h4 data-i18n="implementation.process.step5.title">Training</h4>
+                            <p data-i18n="implementation.process.step5.description">Comprehensive training for your team</p>
+                        </div>
+                    </div>
+                    <div class="process-step">
+                        <div class="step-number">6</div>
+                        <div class="step-content">
+                            <h4 data-i18n="implementation.process.step6.title">Support</h4>
+                            <p data-i18n="implementation.process.step6.description">Ongoing maintenance and technical assistance</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="cta-section">
+                <h2 data-i18n="implementation.cta.title">Ready to Get Started?</h2>
+                <p data-i18n="implementation.cta.description">Contact us today to discuss your implementation needs</p>
+                <a href="contact.html" class="btn primary" data-i18n="implementation.cta.button">Contact Us</a>
             </div>
         </section>
     </main>

@@ -1,4 +1,3 @@
-
 {
   "nav": {
     "home": "Home",
@@ -84,21 +83,70 @@
   },
   "implementation": {
     "title": "Implementation & Support",
+    "intro": "We provide comprehensive implementation support from initial consultation to deployment and ongoing maintenance.",
     "consultation": {
       "title": "Consultation",
-      "description": "Expert analysis of your requirements"
+      "description": "Expert requirements analysis",
+      "step1": "Initial needs assessment",
+      "step2": "Site survey and technical analysis",
+      "step3": "Custom solution design",
+      "step4": "ROI projection and planning"
     },
     "deployment": {
       "title": "Deployment",
-      "description": "Professional system installation"
+      "description": "Professional system installation",
+      "step1": "Hardware setup and optimization",
+      "step2": "Software configuration and integration",
+      "step3": "Camera positioning and tuning",
+      "step4": "Comprehensive testing"
     },
     "training": {
       "title": "Training",
-      "description": "Comprehensive staff training"
+      "description": "Comprehensive staff training",
+      "step1": "System operation training",
+      "step2": "Alert management procedures",
+      "step3": "Administration and configuration",
+      "step4": "Documentation and resources"
     },
     "support": {
-      "title": "Support",
-      "description": "24/7 technical support"
+      "title": "Ongoing Support",
+      "description": "Continuous maintenance and assistance",
+      "step1": "24/7 technical support",
+      "step2": "Regular software updates",
+      "step3": "Performance monitoring",
+      "step4": "System expansion assistance"
+    },
+    "process": {
+      "title": "Our Implementation Process",
+      "step1": {
+        "title": "Assessment",
+        "description": "We analyze your requirements and current infrastructure"
+      },
+      "step2": {
+        "title": "Design",
+        "description": "We create a customized solution tailored to your needs"
+      },
+      "step3": {
+        "title": "Implementation",
+        "description": "Professional installation and system configuration"
+      },
+      "step4": {
+        "title": "Testing",
+        "description": "Thorough testing and quality assurance"
+      },
+      "step5": {
+        "title": "Training",
+        "description": "Comprehensive training for your team"
+      },
+      "step6": {
+        "title": "Support",
+        "description": "Ongoing maintenance and technical assistance"
+      }
+    },
+    "cta": {
+      "title": "Ready to Get Started?",
+      "description": "Contact us today to discuss your implementation needs",
+      "button": "Contact Us"
     }
   },
   "faq": {
