@@ -52,7 +52,10 @@
     },
     "retail": {
       "title": "Analityka Handlowa",
-      "description": "Analiza zachowań klientów"
+      "description": "Analiza zachowań klientów dla optymalizacji sprzedaży",
+      "feature1": "Analiza przepływu klientów",
+      "feature2": "Zarządzanie kolejkami",
+      "feature3": "Optymalizacja układu sklepu"
     },
     "traffic": {
       "title": "Monitoring Ruchu",

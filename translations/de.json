@@ -25,7 +25,10 @@
     },
     "traffic": {
       "title": "Verkehrsüberwachung",
-      "description": "Intelligente Verkehrsanalyse"
+      "description": "Intelligente Verkehrsanalyse und -steuerung",
+      "feature1": "Fahrzeugzählung",
+      "feature2": "Verkehrsflussoptimierung",
+      "feature3": "Vorfallserkennung"
     }
   },
   "implementation": {
