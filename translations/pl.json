@@ -5,11 +5,10 @@
     "about": "O nas",
     "products": "Produkty",
     "technology": "Technologia",
-    "contact": "Kontakt"
-  },
-  "nav": {
     "applications": "Zastosowania",
-    "implementation": "Wdrożenie"
+    "implementation": "Wdrożenie",
+    "faq": "FAQ",
+    "contact": "Kontakt"
   },
   "applications": {
     "title": "Zastosowania",
