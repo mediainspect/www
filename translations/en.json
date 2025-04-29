@@ -5,6 +5,8 @@
     "about": "About",
     "products": "Products",
     "technology": "Technology",
+    "applications": "Applications",
+    "implementation": "Implementation",
     "contact": "Contact"
   },
   "hero": {
@@ -33,6 +35,77 @@
         "title": "Instant Notifications",
         "description": "Immediate response to detected events"
       }
+    }
+  },
+  "products": {
+    "essential": {
+      "title": "MediaInspect Edge Essential",
+      "description": "Basic system for intelligent video analytics",
+      "feature1": "Local video processing",
+      "feature2": "Basic object detection",
+      "feature3": "Event notifications"
+    },
+    "professional": {
+      "title": "MediaInspect Edge Professional",
+      "description": "Advanced video analytics solution",
+      "feature1": "Advanced behavior analysis",
+      "feature2": "Multiple camera support",
+      "feature3": "Custom detection scenarios"
+    },
+    "enterprise": {
+      "title": "MediaInspect Edge Enterprise",
+      "description": "Complete enterprise solution",
+      "feature1": "Unlimited cameras",
+      "feature2": "Advanced AI analytics",
+      "feature3": "Enterprise system integration"
+    },
+    "cta": {
+      "demo": "Request Demo"
+    }
+  },
+  "applications": {
+    "title": "Applications",
+    "security": {
+      "title": "Security Monitoring",
+      "description": "Advanced perimeter protection"
+    },
+    "industrial": {
+      "title": "Industrial Safety",
+      "description": "Workplace safety monitoring"
+    },
+    "retail": {
+      "title": "Retail Analytics",
+      "description": "Customer behavior analysis"
+    },
+    "traffic": {
+      "title": "Traffic Monitoring",
+      "description": "Smart traffic analysis"
+    }
+  },
+  "implementation": {
+    "title": "Implementation & Support",
+    "consultation": {
+      "title": "Consultation",
+      "description": "Expert analysis of your requirements"
+    },
+    "deployment": {
+      "title": "Deployment",
+      "description": "Professional system installation"
+    },
+    "training": {
+      "title": "Training",
+      "description": "Comprehensive staff training"
+    },
+    "support": {
+      "title": "Support",
+      "description": "24/7 technical support"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "technical": {
+      "title": "Technical Questions",
+      "description": "Technical specifications and requirements"
     }
   }
 }
