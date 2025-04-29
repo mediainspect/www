@@ -1,4 +1,3 @@
-
 {
   "nav": {
     "home": "Strona główna",
@@ -105,44 +104,37 @@
     "cta": {
       "demo": "Zamów prezentację"
     }
-  }
-}
-
-
-{
-  "nav": {
-    "home": "Strona główna",
-    "about": "O nas",
-    "products": "Produkty",
-    "technology": "Technologia",
-    "contact": "Kontakt"
   },
-  "hero": {
-    "title": "Telemonit",
-    "subtitle": "Inteligentna Analityka Wideo",
-    "description": "Zaawansowana analityka wideo w czasie rzeczywistym w połączeniu z autonomicznymi stacjami zasilania PORTIGEN.",
-    "demo": "Umów prezentację",
-    "solutions": "Zobacz rozwiązania"
-  },
-  "features": {
-    "title": "Innowacyjna technologia dla Twojego bezpieczeństwa",
-    "cards": {
-      "analysis": {
-        "title": "Lokalna analiza wideo",
-        "description": "Opóźnienie poniżej 5ms"
+  "technology": {
+    "title": "Nasza Technologia",
+    "edge": {
+      "title": "Architektura Edge Computing",
+      "description": "MediaInspect Edge wykorzystuje zaawansowaną architekturę edge computing do przetwarzania wideo w czasie rzeczywistym z ultra-niskim opóźnieniem."
+    },
+    "features": {
+      "ai": {
+        "title": "Analityka oparta na AI",
+        "description": "Zaawansowane algorytmy uczenia maszynowego do dokładnej detekcji obiektów i analizy zachowań."
       },
-      "operation": {
-        "title": "Praca autonomiczna",
-        "description": "Tygodnie pracy bez sieci i zasilania"
+      "processing": {
+        "title": "Przetwarzanie w czasie rzeczywistym",
+        "description": "Opóźnienie poniżej 5ms dla natychmiastowej detekcji i reakcji na zdarzenia."
       },
-      "detection": {
-        "title": "Inteligentne wykrywanie",
-        "description": "Zaawansowana analiza obiektów i zachowań"
+      "power": {
+        "title": "Integracja z PORTIGEN",
+        "description": "Autonomiczny system zasilania do długotrwałej pracy bez podłączenia do sieci."
       },
-      "alerts": {
-        "title": "Natychmiastowe powiadomienia",
-        "description": "Błyskawiczna reakcja na wykryte zdarzenia"
+      "security": {
+        "title": "Zaawansowane bezpieczeństwo",
+        "description": "Szyfrowanie end-to-end i bezpieczne przetwarzanie danych na brzegu sieci."
       }
+    },
+    "specs": {
+      "title": "Specyfikacja techniczna",
+      "processing": "Jednostka brzegowa z dedykowanym przyspieszeniem AI",
+      "memory": "4GB+ RAM dla płynnej pracy",
+      "storage": "Lokalna pamięć do rejestracji zdarzeń",
+      "network": "Opcjonalna łączność sieciowa do zdalnego monitoringu"
     }
   }
 }
