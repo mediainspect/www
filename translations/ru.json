@@ -5,7 +5,47 @@
     "about": "О нас",
     "products": "Продукты",
     "technology": "Технологии",
+    "applications": "Применения",
+    "implementation": "Внедрение",
     "contact": "Контакты"
+  },
+  "applications": {
+    "title": "Применения",
+    "security": {
+      "title": "Мониторинг безопасности",
+      "description": "Продвинутая защита периметра"
+    },
+    "industrial": {
+      "title": "Промышленная безопасность",
+      "description": "Мониторинг безопасности на рабочем месте"
+    },
+    "retail": {
+      "title": "Аналитика розничной торговли",
+      "description": "Анализ поведения клиентов"
+    },
+    "traffic": {
+      "title": "Мониторинг трафика",
+      "description": "Умный анализ трафика"
+    }
+  },
+  "implementation": {
+    "title": "Внедрение и поддержка",
+    "consultation": {
+      "title": "Консультация",
+      "description": "Экспертный анализ требований"
+    },
+    "deployment": {
+      "title": "Развертывание",
+      "description": "Профессиональная установка системы"
+    },
+    "training": {
+      "title": "Обучение",
+      "description": "Комплексное обучение персонала"
+    },
+    "support": {
+      "title": "Поддержка",
+      "description": "Техническая поддержка 24/7"
+    }
   },
   "hero": {
     "title": "Telemonit",

@@ -5,7 +5,47 @@
     "about": "Über uns",
     "products": "Produkte",
     "technology": "Technologie",
+    "applications": "Anwendungen",
+    "implementation": "Implementierung",
     "contact": "Kontakt"
+  },
+  "applications": {
+    "title": "Anwendungen",
+    "security": {
+      "title": "Sicherheitsüberwachung",
+      "description": "Fortschrittlicher Perimeterschutz"
+    },
+    "industrial": {
+      "title": "Industrielle Sicherheit",
+      "description": "Arbeitsplatz-Sicherheitsüberwachung"
+    },
+    "retail": {
+      "title": "Einzelhandelsanalyse",
+      "description": "Kundenverhalten-Analyse"
+    },
+    "traffic": {
+      "title": "Verkehrsüberwachung",
+      "description": "Intelligente Verkehrsanalyse"
+    }
+  },
+  "implementation": {
+    "title": "Implementierung & Support",
+    "consultation": {
+      "title": "Beratung",
+      "description": "Experten-Anforderungsanalyse"
+    },
+    "deployment": {
+      "title": "Bereitstellung",
+      "description": "Professionelle Systeminstallation"
+    },
+    "training": {
+      "title": "Schulung",
+      "description": "Umfassende Mitarbeiterschulung"
+    },
+    "support": {
+      "title": "Support",
+      "description": "24/7 technischer Support"
+    }
   },
   "hero": {
     "title": "Telemonit",
