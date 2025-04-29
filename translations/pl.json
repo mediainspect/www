@@ -26,11 +26,19 @@
     "title": "Często Zadawane Pytania",
     "general": {
       "title": "Informacje Ogólne",
-      "description": "Dowiedz się więcej o możliwościach MediaInspect Edge"
+      "description": "Dowiedz się więcej o możliwościach MediaInspect Edge",
+      "q1": "Czym jest MediaInspect Edge?",
+      "a1": "To zaawansowana platforma do analizy wideo w czasie rzeczywistym na brzegu sieci.",
+      "q2": "Jakie są główne zalety?",
+      "a2": "Lokalne przetwarzanie, niskie opóźnienia, autonomiczna praca i zaawansowana analityka AI."
     },
     "technical": {
       "title": "Pytania Techniczne",
-      "description": "Specyfikacje techniczne i wymagania"
+      "description": "Specyfikacje techniczne i wymagania",
+      "q1": "Jakie są wymagania systemowe?",
+      "a1": "System działa na standardowym sprzęcie edge computing z min. 4GB RAM.",
+      "q2": "Czy potrzebne jest stałe połączenie z internetem?",
+      "a2": "Nie, system działa autonomicznie bez stałego połączenia z internetem."
     }
   },
   "applications": {
