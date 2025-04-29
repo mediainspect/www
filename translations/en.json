@@ -143,6 +143,23 @@
         "description": "Ongoing maintenance and technical assistance"
       }
     },
+    "cases": {
+      "title": "Success Stories",
+      "case1": {
+        "title": "Manufacturing Facility",
+        "description": "Increased safety compliance by 87% with MediaInspect Edge industrial safety monitoring",
+        "result1": "Safety compliance",
+        "result2": "Incident reduction",
+        "result3": "ROI achieved"
+      },
+      "case2": {
+        "title": "Retail Chain",
+        "description": "Optimized store layouts and reduced checkout wait times by 65% with retail analytics",
+        "result1": "Wait time reduction",
+        "result2": "Sales increase",
+        "result3": "Staff efficiency"
+      }
+    },
     "cta": {
       "title": "Ready to Get Started?",
       "description": "Contact us today to discuss your implementation needs",
