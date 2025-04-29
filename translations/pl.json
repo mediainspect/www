@@ -10,6 +10,29 @@
     "faq": "FAQ",
     "contact": "Kontakt"
   },
+  "contact": {
+    "title": "Kontakt",
+    "address": "Technologiepark 1, 15236 Frankfurt (Oder)",
+    "email": "Email: info@telemonit.com",
+    "phone": "Tel: +49 335 000 00 00",
+    "form": {
+      "name": "Imię i nazwisko",
+      "email": "Email",
+      "message": "Wiadomość",
+      "submit": "Wyślij"
+    }
+  },
+  "faq": {
+    "title": "Często Zadawane Pytania",
+    "general": {
+      "title": "Informacje Ogólne",
+      "description": "Dowiedz się więcej o możliwościach MediaInspect Edge"
+    },
+    "technical": {
+      "title": "Pytania Techniczne",
+      "description": "Specyfikacje techniczne i wymagania"
+    }
+  },
   "applications": {
     "title": "Zastosowania",
     "security": {

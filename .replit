@@ -5,3 +5,15 @@ channel = "stable-24_05"
 deploymentTarget = "static"
 publicDir = "./"
 run = ["sh", "-c", "python -m http.server 5000"]
+
+[workflows]
+runButton = "Run"
+
+[[workflows.workflow]]
+name = "Run"
+author = 36110632
+mode = "sequential"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "python -m http.server 5000"
