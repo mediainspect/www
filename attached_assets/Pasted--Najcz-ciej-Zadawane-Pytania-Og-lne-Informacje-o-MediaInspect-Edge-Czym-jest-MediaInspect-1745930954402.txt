@@ -1,0 +1,211 @@
+# Najczęściej Zadawane Pytania
+
+## Ogólne Informacje o MediaInspect Edge
+
+### Czym jest MediaInspect Edge?
+
+MediaInspect Edge to kompleksowe rozwiązanie łączące zaawansowane oprogramowanie do analizy wideo w czasie rzeczywistym z niezależnymi stacjami zasilania PORTIGEN. System umożliwia przetwarzanie strumieni wideo lokalnie, bez opóźnień i konieczności przesyłania danych do chmury - nawet w najbardziej wymagających lokalizacjach bez stałej infrastruktury.
+
+### Jakie są główne zastosowania MediaInspect Edge?
+
+MediaInspect Edge znajduje zastosowanie w wielu branżach, w tym:
+- Monitoring infrastruktury krytycznej (rurociągi, sieci energetyczne)
+- Bezpieczeństwo obiektów i placów budowy
+- Analiza ruchu w miastach i na drogach
+- Monitoring środowiskowy i rolniczy
+- Ochrona granic i stref ograniczonego dostępu
+- Tymczasowe zabezpieczenie wydarzeń
+- Autonomiczne punkty monitoringu w lokalizacjach bez infrastruktury
+
+### Czym MediaInspect Edge różni się od tradycyjnych systemów monitoringu?
+
+Kluczowe różnice to:
+1. **Analityka na brzegu sieci** - przetwarzanie odbywa się lokalnie, nie w chmurze
+2. **Ultra-niskie opóźnienia** - latencja poniżej 5ms zamiast 50-200ms w systemach chmurowych
+3. **Autonomiczne działanie** - tygodnie pracy bez dostępu do zasilania i sieci
+4. **Brak kosztów transferu danych** - 80% oszczędności na transferze do chmury
+5. **Szybkie wdrożenie** - instalacja w ciągu godzin, bez budowy infrastruktury
+6. **Mobilność** - możliwość łatwego przemieszczania jednostek
+7. **Zaawansowana AI** - dedykowane algorytmy zoptymalizowane dla urządzeń brzegowych
+
+### Jakie wersje MediaInspect Edge są dostępne?
+
+Oferujemy trzy wersje rozwiązania:
+- **MediaInspect Edge Essential** - podstawowy system do prostych zastosowań
+- **MediaInspect Edge Professional** - zaawansowane rozwiązanie dla wymagających wdrożeń
+- **MediaInspect Edge Enterprise** - najwyższej klasy system dla zastosowań krytycznych
+
+## Technologia i Specyfikacja
+
+### Jak długo może działać MediaInspect Edge bez ładowania?
+
+Czas działania zależy od modelu i warunków pracy:
+- **MediaInspect Edge Essential**: 10-14 dni przy standardowym obciążeniu
+- **MediaInspect Edge Professional**: 7-10 dni przy standardowym obciążeniu
+- **MediaInspect Edge Enterprise**: 5-8 dni przy pełnym obciążeniu
+
+Z dołączonym panelem solarnym 100W, system może działać praktycznie bezterminowo w lokalizacjach z dobrym nasłonecznieniem.
+
+### Ile strumieni wideo może obsługiwać jedna jednostka?
+
+Zależnie od wersji:
+- **Essential**: 1 strumień wideo w rozdzielczości do 1080p
+- **Professional**: Do 4 równoległych strumieni w rozdzielczości do 4K
+- **Enterprise**: Do 8 równoległych strumieni w rozdzielczości do 8K
+
+### Jak działa zasilanie solarne z MediaInspect Edge?
+
+System wykorzystuje panele fotowoltaiczne (od 100W do 400W zależnie od modelu) połączone ze stacją zasilania PORTIGEN. Inteligentny kontroler ładowania MPPT optymalizuje pobór energii słonecznej, a zaawansowany system zarządzania energią dostosowuje obciążenie obliczeniowe do dostępnych zasobów. W okresach niskiego nasłonecznienia system automatycznie redukuje zużycie energii, priorytetyzując kluczowe funkcje.
+
+### Jakie są wymagania sieciowe dla MediaInspect Edge?
+
+MediaInspect Edge może działać całkowicie autonomicznie, bez połączenia sieciowego. Dla funkcji zdalnego zarządzania i synchronizacji danych wystarczy okresowe połączenie przez:
+- Sieć komórkową 4G/5G (wbudowany modem)
+- Wi-Fi (jeśli dostępne w zasięgu)
+- Ethernet (opcjonalnie)
+
+Miesięczne zużycie danych jest minimalne dzięki lokalnej analizie i wysyłaniu tylko metadanych i alertów.
+
+### Jakie algorytmy analityczne oferuje MediaInspect Edge?
+
+W zależności od wersji:
+- **Essential**: Detekcja ruchu, przekroczenie linii, podstawowe rozpoznawanie obiektów
+- **Professional**: Detekcja obiektów, klasyfikacja, śledzenie, rozpoznawanie zachowań, analiza tłumu
+- **Enterprise**: Najnowsze modele AI, głębokie uczenie, analiza semantyczna, rozpoznawanie złożonych wzorców, analiza predykcyjna
+
+### Jak zabezpieczone są dane w MediaInspect Edge?
+
+MediaInspect Edge implementuje wielowarstwowe zabezpieczenia:
+- Szyfrowanie danych przechowywanych lokalnie (AES-256)
+- Szyfrowana komunikacja (TLS 1.3)
+- Bezpieczne uruchamianie (Secure Boot)
+- Uwierzytelnianie wieloskładnikowe dla zdalnego dostępu
+- Zaawansowane zarządzanie uprawnieniami
+- Pełna ścieżka audytu wszystkich operacji
+- Fizyczne zabezpieczenia przed ingerencją
+
+## Wdrożenie i Użytkowanie
+
+### Jak wygląda proces wdrożenia MediaInspect Edge?
+
+Standardowy proces wdrożenia obejmuje:
+1. Konsultację i analizę potrzeb
+2. Projektowanie rozwiązania
+3. Wdrożenie pilotażowe (opcjonalnie)
+4. Pełne wdrożenie
+5. Stabilizację i optymalizację
+
+Cały proces trwa od 1 tygodnia (małe wdrożenia) do 8 tygodni (duże, kompleksowe wdrożenia).
+
+### Czy mogę zintegrować MediaInspect Edge z istniejącymi systemami?
+
+Tak, MediaInspect Edge oferuje rozbudowane możliwości integracji:
+- Standardowe protokoły (ONVIF, RTSP, RTMP)
+- REST API i SDK
+- Gotowe konektory do popularnych systemów VMS i PSIM
+- Możliwość rozwoju dedykowanych integracji
+
+### Jaka jest minimalna temperatura pracy MediaInspect Edge?
+
+MediaInspect Edge został zaprojektowany do pracy w trudnych warunkach:
+- **Essential**: -20°C do +50°C
+- **Professional**: -20°C do +50°C
+- **Enterprise**: -30°C do +60°C
+
+Dla ekstremalnych warunków dostępne są opcjonalne rozwiązania grzewcze/chłodzące.
+
+### Czy system wymaga stałego nadzoru?
+
+Nie, MediaInspect Edge został zaprojektowany do autonomicznej pracy. System automatycznie monitoruje swój stan, optymalizuje zużycie energii i wysyła alerty w przypadku wykrycia potencjalnych problemów. Interfejs zarządzania umożliwia zdalne monitorowanie i konfigurację wszystkich jednostek.
+
+### Jak często wymagana jest konserwacja?
+
+MediaInspect Edge wymaga minimalnej konserwacji:
+- Okresowe czyszczenie paneli solarnych (jeśli używane)
+- Kontrola stanu fizycznego jednostek (zalecana co 6-12 miesięcy)
+- Aktualizacje oprogramowania (automatyczne, z możliwością planowania)
+
+## Zakup i ROI
+
+### Jaki jest koszt wdrożenia MediaInspect Edge?
+
+Koszt zależy od wersji i liczby jednostek:
+- **MediaInspect Edge Essential**: od 4,499€ za jednostkę
+- **MediaInspect Edge Professional**: od 6,999€ za jednostkę
+- **MediaInspect Edge Enterprise**: od 9,999€ za jednostkę
+
+Dostępne są również modele subskrypcyjne od 299€/miesiąc oraz specjalne cenniki dla wdrożeń wielojednostkowych.
+
+### Jaki jest typowy zwrot z inwestycji (ROI)?
+
+Typowy zwrot z inwestycji zależy od zastosowania, ale nasze wdrożenia osiągają ROI w ciągu:
+- 2-3 miesięcy dla systemów bezpieczeństwa (dzięki eliminacji kosztów fizycznej ochrony)
+- 4-8 miesięcy dla zastosowań przemysłowych (dzięki redukcji kosztów inspekcji i prewencji awarii)
+- 6-12 miesięcy dla zastosowań miejskich (dzięki optymalizacji procesów i redukcji kosztów operacyjnych)
+
+### Czy oferujecie finansowanie zakupu?
+
+Tak, oferujemy elastyczne opcje finansowania:
+- Leasing operacyjny i finansowy
+- Subskrypcję miesięczną (OPEX zamiast CAPEX)
+- Opcje wynajmu długoterminowego
+- Finansowanie przez partnerów finansowych
+
+### Czy mogę przetestować system przed zakupem?
+
+Tak, oferujemy program "Test Drive", w ramach którego możesz przetestować MediaInspect Edge przez 30 dni w swojej lokalizacji. Organizujemy również regularne demonstracje i prezentacje, zarówno online jak i stacjonarne.
+
+### Jakie wsparcie otrzymuję po zakupie?
+
+Oferujemy różne poziomy wsparcia:
+- **Wsparcie Standard**: 8/5, czas reakcji 4h
+- **Wsparcie Professional**: 16/7, czas reakcji 2h, dedykowany opiekun
+- **Wsparcie Enterprise**: 24/7/365, czas reakcji 15min, dedykowany zespół, wsparcie on-site
+
+## Dostępność i Partnerstwo
+
+### Gdzie mogę kupić MediaInspect Edge?
+
+MediaInspect Edge jest dostępny:
+- Bezpośrednio od MediaInspect
+- Poprzez sieć certyfikowanych partnerów i dystrybutorów
+- Poprzez wybrane sklepy specjalistyczne
+
+### Czy oferujecie program partnerski?
+
+Tak, oferujemy program partnerski dla:
+- Integratorów systemów bezpieczeństwa
+- Firm konsultingowych
+- Dostawców rozwiązań dla przemysłu
+- Resellerów specjalizujących się w IoT i edge computing
+
+[Dowiedz się więcej o Programie Partnerskim](/partnerzy)
+
+### W jakich krajach dostępny jest MediaInspect Edge?
+
+Obecnie MediaInspect Edge jest dostępny w całej Unii Europejskiej, Wielkiej Brytanii, Szwajcarii i Norwegii. Planujemy ekspansję na rynki Ameryki Północnej i Azji w najbliższych 12 miesiącach.
+
+### Czy dostępne są szkolenia dla partnerów?
+
+Tak, oferujemy kompleksowy program szkoleniowy dla partnerów:
+- Szkolenia techniczne
+- Szkolenia sprzedażowe
+- Warsztaty wdrożeniowe
+- Certyfikacja partnerów
+
+## Kontakt i Dalsze Informacje
+
+### Jak mogę uzyskać więcej informacji o MediaInspect Edge?
+
+Aby uzyskać więcej informacji:
+- [Skontaktuj się z nami](/kontakt)
+- [Pobierz broszury i dokumentację](/materialy)
+- [Umów prezentację lub demo](/demo)
+- [Skonsultuj się z ekspertem](/konsultacja)
+
+### Mam specyficzne pytanie, którego nie ma na liście FAQ.
+
+Skontaktuj się z naszym zespołem:
+- Email: info@mediainspect.com
+- Telefon: +48 22 000 00 00
+- [Formularz kontaktowy](/kontakt)

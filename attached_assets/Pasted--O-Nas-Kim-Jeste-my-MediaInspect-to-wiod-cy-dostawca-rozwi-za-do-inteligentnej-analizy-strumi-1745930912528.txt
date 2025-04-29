@@ -1,0 +1,57 @@
+# O Nas
+
+## Kim Jesteśmy
+
+MediaInspect to wiodący dostawca rozwiązań do inteligentnej analizy strumieni wideo w czasie rzeczywistym. Naszą misją jest transformacja surowych danych wizualnych w wartościowe informacje biznesowe, zwiększając bezpieczeństwo, efektywność i innowacyjność naszych klientów.
+
+Jako zespół inżynierów i ekspertów branżowych, łączymy zaawansowane algorytmy analizy obrazu, uczenie maszynowe i najnowsze technologie edge computing w innowacyjne rozwiązania dostosowane do potrzeb rynku.
+
+## Nasza Historia
+
+MediaInspect powstał w wyniku wieloletnich badań nad optymalizacją przetwarzania obrazu i efektywnym wykorzystaniem mocy obliczeniowej na urządzeniach brzegowych. Dostrzegając ograniczenia tradycyjnych rozwiązań chmurowych i rosnące zapotrzebowanie na lokalną analitykę wideo, stworzyliśmy platformę, która łączy zaawansowane algorytmy z praktycznym zastosowaniem w rzeczywistych warunkach.
+
+Przełomowym momentem było nawiązanie strategicznego partnerstwa z firmą Telemonit, twórcą innowacyjnych stacji zasilania PORTIGEN. Połączenie naszego oprogramowania z niezależnym źródłem energii otworzyło zupełnie nowe możliwości zastosowań w lokalizacjach bez stałej infrastruktury.
+
+## Nasza Misja
+
+Transformujemy strumienie danych wizualnych w inteligentne informacje biznesowe, zwiększając bezpieczeństwo, efektywność i innowacyjność naszych klientów.
+
+## Nasza Wizja
+
+Dążymy do stworzenia standardu branżowego w inteligentnej analizie wideo, umożliwiając organizacjom dostrzeganie wartości w każdym strumieniu danych wizualnych, niezależnie od lokalizacji i warunków.
+
+## Nasze Wartości
+
+- **Innowacyjność** - nieustannie poszukujemy nowych, lepszych rozwiązań
+- **Niezawodność** - tworzymy systemy, na których można polegać w krytycznych zastosowaniach
+- **Elastyczność** - dostosowujemy się do specyficznych wymagań klientów
+- **Bezpieczeństwo** - priorytetowo traktujemy ochronę danych i prywatność
+- **Skalowalność** - projektujemy z myślą o rozbudowie i rozwoju
+
+## Zespół Zarządzający
+
+*[Zdjęcia i biogramy kluczowych członków zespołu zarządzającego]*
+
+## Partnerzy Strategiczni
+
+![Logo Telemonit](images/telemonit-logo.png)
+
+**Telemonit Sp. z o.o.** - Producent innowacyjnych stacji zasilania PORTIGEN, specjalnie zaprojektowanych pod kątem zastosowań edge computing.
+
+*[Logotypy i krótkie opisy pozostałych partnerów strategicznych]*
+
+## Certyfikaty i Członkostwo
+
+*[Logotypy organizacji branżowych, certyfikatów jakości i bezpieczeństwa]*
+
+## Kariera
+
+Jesteśmy zawsze otwarci na utalentowanych specjalistów pasjonujących się nowymi technologiami. Sprawdź aktualne oferty pracy w MediaInspect.
+
+[Sprawdź Oferty Pracy](/kariera)
+
+## Kontakt
+
+Chcesz dowiedzieć się więcej o MediaInspect lub omówić potencjalną współpracę? Skontaktuj się z nami!
+
+[Skontaktuj się](/kontakt)

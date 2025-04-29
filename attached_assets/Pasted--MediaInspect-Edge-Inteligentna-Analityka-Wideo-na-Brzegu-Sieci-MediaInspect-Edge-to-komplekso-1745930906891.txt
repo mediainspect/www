@@ -1,0 +1,56 @@
+# MediaInspect Edge
+
+## Inteligentna Analityka Wideo na Brzegu Sieci
+
+MediaInspect Edge to kompleksowe rozwiązanie łączące zaawansowane oprogramowanie do analizy wideo w czasie rzeczywistym z niezależnymi stacjami zasilania PORTIGEN. Przetwarzaj strumienie wideo lokalnie, bez opóźnień i konieczności przesyłania danych do chmury - nawet w najbardziej wymagających lokalizacjach.
+
+## Zobacz Więcej Niż Strumień Danych
+
+MediaInspect Edge umożliwia:
+
+- **Lokalną analitykę wideo** z latencją poniżej 5ms
+- **Autonomiczne działanie** przez tygodnie bez dostępu do sieci i zasilania
+- **Inteligentne wykrywanie obiektów** i analizę zachowań
+- **Natychmiastowe alerty** o wykrytych zdarzeniach
+- **Pracę w najtrudniejszych warunkach** dzięki integracji z PORTIGEN
+
+## Dla Kogo?
+
+- **Przemysł i Infrastruktura Krytyczna** - monitoring odległych instalacji
+- **Bezpieczeństwo i Ochrona** - mobilne systemy monitoringu
+- **Inteligentne Miasta** - tymczasowa analityka wideo
+- **Rolnictwo i Środowisko** - autonomiczny monitoring terenów
+
+## Nasze Rozwiązania
+
+### MediaInspect Edge Essential
+Podstawowy system do prostych zastosowań monitoringu z lokalną analityką.
+[Poznaj szczegóły](/produkty/essential)
+
+### MediaInspect Edge Professional
+Zaawansowane rozwiązanie do wymagających zastosowań z obsługą wielu strumieni.
+[Poznaj szczegóły](/produkty/professional)
+
+### MediaInspect Edge Enterprise
+Najwyższej klasy system do kompleksowych wdrożeń z zaawansowaną analityką.
+[Poznaj szczegóły](/produkty/enterprise)
+
+## Dlaczego MediaInspect Edge?
+
+- **80% redukcja kosztów transferu danych** w porównaniu do rozwiązań chmurowych
+- **10-40x szybsza odpowiedź** dzięki przetwarzaniu na brzegu sieci
+- **Tygodnie autonomicznej pracy** bez konieczności ładowania
+- **Szybkie wdrożenie** bez rozbudowy infrastruktury
+- **Kompleksowe wsparcie techniczne** i wdrożeniowe
+
+## Nasi Klienci
+
+*[Logotypy i krótkie referencje od klientów z różnych branż]*
+
+## Poznaj MediaInspect Edge w Działaniu
+
+[Umów Demonstrację](/kontakt) | [Pobierz Broszurę](/materialy/broszura) | [Kalkulator ROI](/roi-calculator)
+
+---
+
+*MediaInspect Edge - See Beyond the Stream*

@@ -1,0 +1,209 @@
+# MediaInspect Edge Enterprise
+
+## Kompleksowe Rozwiązanie Enterprise dla Inteligentnej Analityki Wideo
+
+MediaInspect Edge Enterprise to najwyższej klasy system łączący zaawansowane oprogramowanie do analizy wideo z potężną mocą obliczeniową i niezależnym zasilaniem. Zaprojektowany dla rozbudowanych wdrożeń korporacyjnych i infrastruktury krytycznej, gdzie niezawodność, skalowalność i zaawansowana analityka są kluczowe.
+
+![MediaInspect Edge Enterprise](images/enterprise-product.jpg)
+
+## Zastosowania
+
+- **Kompleksowe systemy bezpieczeństwa**
+- **Monitoring infrastruktury krytycznej**
+- **Inteligentne miasta i zarządzanie ruchem**
+- **Automatyzacja procesów przemysłowych**
+- **Zarządzanie kampusami i obiektami**
+- **Zaawansowana analityka behawioralna**
+- **Autonomiczne węzły edge computing**
+
+## Specyfikacja Techniczna
+
+### Oprogramowanie MediaInspect Edge Enterprise
+
+| Funkcjonalność | Specyfikacja |
+|----------------|--------------|
+| Obsługiwane strumienie | Do 8 równoległych strumieni wideo |
+| Rozdzielczość | Do 8K |
+| Algorytmy analityczne | Najnowsze modele AI, głębokie uczenie, analiza semantyczna, rozpoznawanie złożonych wzorców |
+| Latencja | <3ms |
+| Buforowanie lokalne | Do 8TB (60+ dni nagrań) |
+| Zaawansowane funkcje | Analiza predykcyjna, rozpoznawanie zachowań, detekcja anomalii, mapowanie cieplne, hybrydowa analityka |
+| Interfejs zarządzania | Kompleksowy dashboard, API REST, SDK integracyjne, zarządzanie flotą urządzeń |
+| Aktualizacje | OTA (over-the-air), zarządzanie wersjami, rollback |
+| Integracje | Pełna integracja z systemami Enterprise (VMS, PSIM, ERP, BMS, SCADA) |
+| Bezpieczeństwo | Szyfrowanie end-to-end, podpisy cyfrowe, zabezpieczenia przed manipulacją |
+
+### Sprzęt Obliczeniowy
+
+| Komponent | Specyfikacja |
+|-----------|--------------|
+| Procesor | NVIDIA Jetson AGX Orin |
+| Wydajność AI | 200 TOPS |
+| Pamięć RAM | 32GB LPDDR5 |
+| Pamięć masowa | 1TB NVMe SSD (rozszerzalna) |
+| Akcelerator AI | 2048 rdzeni CUDA, 64 rdzenie Tensor |
+| Łączność | Wi-Fi 6E, Ethernet, 5G, Bluetooth 5.2, LoRaWAN |
+| Porty I/O | HDMI 2.1, USB 3.2, USB-C, CAN, GPIO, RS-485 |
+| Redundancja | Podwójny system monitoringu, fail-over |
+| Zasilanie | 12V/24V DC, 45W (typowe), 60W (max) |
+
+### Stacja Zasilania PORTIGEN Enterprise
+
+| Parametr | Wartość |
+|----------|---------|
+| Pojemność | 1000Wh (rozszerzalna do 1500Wh) |
+| Napięcie wyjściowe | Konfigurowalne: 12V/24V/48V DC, 5V USB, 230V AC (inwerter) |
+| Maksymalny prąd | 10A |
+| Czas pracy | 5-8 dni przy pełnym obciążeniu |
+| Ładowanie solarne | Tak (panel 200W w zestawie, możliwość dodania do 400W) |
+| System zarządzania energią | Zaawansowany BMS z AI-based load balancing |
+| Wodoodporność | IP68 |
+| Temperatura pracy | -30°C do +60°C |
+| Monitoring | Zaawansowana telemetria, predykcyjne zużycie energii |
+| Wymiary | 70cm x 20cm (cylindryczna) |
+| Waga | 22kg |
+
+## Zawartość Pakietu
+
+- Oprogramowanie MediaInspect Edge Enterprise z licencją na 2 lata
+- Komputer NVIDIA Jetson AGX Orin w obudowie przemysłowej
+- Stacja zasilania PORTIGEN Enterprise 1000Wh
+- Panel solarny 200W z kontrolerem ładowania MPPT
+- Zestaw montażowy profesjonalny
+- Moduł łączności 5G z redundantnym 4G/LTE
+- Zaawansowana obudowa z kontrolą środowiska
+- Zestaw zabezpieczeń fizycznych
+- Pełna dokumentacja techniczna i wdrożeniowa
+- Wsparcie techniczne Premium (24/7)
+- 16 godzin konsultacji wdrożeniowych
+- Szkolenie administratorów (2 dni)
+
+## Opcje Dodatkowe
+
+- Dodatkowe panele solarne (do 400W łącznie)
+- Rozszerzenie pojemności baterii (do 1500Wh)
+- Dedykowany serwer zarządzający flotą urządzeń
+- Rozszerzona pamięć masowa (do 32TB RAID)
+- Kamery termowizyjne i specjalistyczne
+- Dedykowane algorytmy AI na zamówienie
+- Licencja wieczna (wykup)
+- Szkolenie zaawansowane dla zespołu IT (5 dni)
+- Audyt bezpieczeństwa i optymalizacji
+- Wsparcie on-site (SLA z czasem reakcji 4h)
+
+## Wyjątkowe Funkcje Enterprise
+
+### Analityka Zaawansowana
+
+- **AI Fusion** - łączenie danych z wielu sensorów (wideo, audio, IoT)
+- **Cognitive Vision** - semantyczne rozumienie sceny i interakcji
+- **Predictive Analytics** - przewidywanie zdarzeń i trendów
+- **Anomaly Detection** - wykrywanie nietypowych wzorców i zachowań
+- **Behavioral Biometrics** - identyfikacja na podstawie wzorców ruchu
+
+### Zarządzanie Flotą
+
+- **Centralized Management** - zarządzanie wszystkimi urządzeniami z jednego miejsca
+- **Health Monitoring** - ciągły monitoring stanu urządzeń
+- **Auto-scaling** - dynamiczna alokacja zasobów obliczeniowych
+- **Remote Diagnostics** - zdalna diagnostyka i rozwiązywanie problemów
+- **Deployment Orchestration** - zarządzanie wdrożeniami na wielu urządzeniach
+
+### Integracja Korporacyjna
+
+- **Enterprise API Gateway** - bezpieczna integracja z systemami firmowymi
+- **Data Lake Connector** - eksport zagregowanych danych do analityki biznesowej
+- **SIEM Integration** - współpraca z systemami bezpieczeństwa informacji
+- **Role-Based Access Control** - zaawansowany system uprawnień
+- **Audit Trail** - pełna historia operacji i zmian
+- **Compliance Reporting** - automatyczne raportowanie zgodności
+
+### Bezpieczeństwo Enterprise
+
+- **Hardware Security Module** - sprzętowa ochrona kluczy kryptograficznych
+- **Secure Boot** - zabezpieczenie procesu uruchamiania
+- **Encrypted Storage** - pełne szyfrowanie danych spoczynkowych
+- **Tamper Detection** - wykrywanie fizycznej ingerencji
+- **Zero Trust Architecture** - zaawansowane zabezpieczenia sieci
+- **Secure Element** - dedykowany układ zabezpieczający
+
+## Korzyści Enterprise
+
+- **Najwyższa wydajność** - przetwarzanie wielu strumieni w jakości do 8K
+- **Kompleksowa analityka** - zaawansowane algorytmy AI niedostępne w niższych wersjach
+- **Strategiczna autonomia** - niezależne działanie w krytycznych zastosowaniach
+- **Redukcja TCO** - o 70% niższy całkowity koszt posiadania w porównaniu do tradycyjnych rozwiązań
+- **Elastyczna skalowalność** - łatwa rozbudowa o dodatkowe jednostki i sensory
+- **Integracja ekosystemowa** - płynna współpraca z istniejącymi systemami Enterprise
+- **Globalny zarząd** - centralne zarządzanie rozproszonymi jednostkami
+- **Compliance Ready** - zgodność z regulacjami branżowymi i korporacyjnymi
+
+## Model Cenowy
+
+### Zakup Jednorazowy (CAPEX)
+
+- MediaInspect Edge Enterprise: **9,999€**
+- MediaInspect Edge Enterprise Plus (rozszerzona pojemność): **12,499€**
+
+### Subskrypcja Miesięczna (OPEX)
+
+- MediaInspect Edge Enterprise: **799€/miesiąc** (min. kontrakt 12 miesięcy)
+- MediaInspect Edge Enterprise Plus: **999€/miesiąc** (min. kontrakt 12 miesięcy)
+
+*Ceny dla wdrożeń wielojednostkowych ustalane indywidualnie*
+*Wszystkie ceny netto, nie zawierają podatku VAT*
+
+## Program Enterprise Support
+
+- Dedykowany opiekun techniczny
+- Wsparcie techniczne 24/7/365
+- Czas reakcji SLA: 15 minut (krytyczne), 2 godziny (wysokie), 8 godzin (standardowe)
+- Zaawansowana diagnostyka zdalna
+- Regularne audyty i optymalizacje
+- Priorytetowe aktualizacje i poprawki
+- Wsparcie on-site w razie potrzeby
+- Szkolenia i certyfikacja zespołu klienta
+- Rozwój funkcji na żądanie
+
+## Przykład ROI
+
+**Scenariusz**: Kompleksowy system monitoringu rafinerii (8 jednostek)
+
+| Kategoria | Tradycyjne rozwiązanie | MediaInspect Edge Enterprise | Oszczędność |
+|-----------|------------------------|----------------------------|-------------|
+| Infrastruktura IT | 250,000€ | 0€ | 250,000€ |
+| Transfer danych | 120,000€/rok | 15,000€/rok | 105,000€/rok |
+| Koszty operacyjne | 180,000€/rok | 60,000€/rok | 120,000€/rok |
+| Wykrywanie incydentów | Straty ~300,000€/rok | Redukcja o 90% | ~270,000€/rok |
+| Koszt rozwiązania | - | 80,000€ (8 jednostek) | -80,000€ |
+| **Całkowite oszczędności (rok 1)** | | | **665,000€** |
+
+**Zwrot z inwestycji**: ~1.5 miesiąca
+
+## Zgodność i Certyfikaty
+
+- CE
+- FCC
+- RoHS
+- IP68 (stacja zasilania i obudowa)
+- ISO 27001 (bezpieczeństwo danych)
+- ISO 9001 (zarządzanie jakością)
+- ATEX (opcjonalnie dla stref zagrożonych wybuchem)
+- NDAA Compliant
+- GDPR Compliant
+- NERC CIP Compliant (infrastruktura energetyczna)
+- IEC 62443 (bezpieczeństwo systemów automatyki przemysłowej)
+
+## Zamów lub Skonsultuj
+
+[Zamów Teraz](#) | [Konsultacja Wdrożeniowa](#) | [Kontakt z Działem Enterprise](#)
+
+## Case Studies
+
+[Przypadek 1: Kompleksowa Ochrona Rafinerii](#)
+[Przypadek 2: Monitoring Sieci Energetycznej w Skali Krajowej](#)
+[Przypadek 3: Inteligentny System Zarządzania Ruchem w Aglomeracji](#)
+
+## Materiały do Pobrania
+
+[Broszura Enterprise (PDF)](#) | [Karta Katalogowa (PDF)](#) | [Architektura Referencyjna (PDF)](#) | [Biała Księga: Zaawansowana Analityka Korporacyjna (PDF)](#) | [ROI Calculator (Excel)](#)
