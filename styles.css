@@ -6,6 +6,22 @@
     --light-gray: #f4f5f7;
 }
 
+.language-selector {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    z-index: 1000;
+}
+
+.language-selector select {
+    padding: 0.5rem;
+    border: 1px solid var(--primary-color);
+    border-radius: 4px;
+    background: white;
+    font-size: 14px;
+    cursor: pointer;
+}
+
 * {
     margin: 0;
     padding: 0;

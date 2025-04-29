@@ -1,0 +1,38 @@
+
+{
+  "nav": {
+    "home": "Strona główna",
+    "about": "O nas",
+    "products": "Produkty",
+    "technology": "Technologia",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Telemonit",
+    "subtitle": "Inteligentna Analityka Wideo",
+    "description": "Zaawansowana analityka wideo w czasie rzeczywistym w połączeniu z autonomicznymi stacjami zasilania PORTIGEN.",
+    "demo": "Umów prezentację",
+    "solutions": "Zobacz rozwiązania"
+  },
+  "features": {
+    "title": "Innowacyjna technologia dla Twojego bezpieczeństwa",
+    "cards": {
+      "analysis": {
+        "title": "Lokalna analiza wideo",
+        "description": "Opóźnienie poniżej 5ms"
+      },
+      "operation": {
+        "title": "Praca autonomiczna",
+        "description": "Tygodnie pracy bez sieci i zasilania"
+      },
+      "detection": {
+        "title": "Inteligentne wykrywanie",
+        "description": "Zaawansowana analiza obiektów i zachowań"
+      },
+      "alerts": {
+        "title": "Natychmiastowe powiadomienia",
+        "description": "Błyskawiczna reakcja na wykryte zdarzenia"
+      }
+    }
+  }
+}

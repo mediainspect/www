@@ -1,0 +1,38 @@
+
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "technology": "Technology",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Telemonit",
+    "subtitle": "Intelligent Video Analytics at the Edge",
+    "description": "Advanced real-time video analytics combined with autonomous PORTIGEN power stations.",
+    "demo": "Schedule Demo",
+    "solutions": "Discover Solutions"
+  },
+  "features": {
+    "title": "Innovative Technology for Your Security",
+    "cards": {
+      "analysis": {
+        "title": "Local Video Analysis",
+        "description": "Latency under 5ms"
+      },
+      "operation": {
+        "title": "Autonomous Operation",
+        "description": "Weeks of operation without network and power supply"
+      },
+      "detection": {
+        "title": "Intelligent Detection",
+        "description": "Advanced object and behavior analysis"
+      },
+      "alerts": {
+        "title": "Instant Notifications",
+        "description": "Immediate response to detected events"
+      }
+    }
+  }
+}

@@ -1,84 +1,69 @@
-
 <!DOCTYPE html>
-<html lang="de">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Telemonit - Intelligente Videoanalyse in Frankfurt (Oder)</title>
+    <title>Telemonit - Video Analytics</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+    <div class="language-selector">
+        <select id="languageSelect" onchange="changeLanguage(this.value)">
+            <option value="en">English</option>
+            <option value="de">Deutsch</option>
+            <option value="pl">Polski</option>
+            <option value="ru">Русский</option>
+        </select>
+    </div>
     <header>
         <nav>
             <div class="logo">
                 <img src="images/logo.png" alt="Telemonit">
             </div>
             <ul>
-                <li><a href="/">Startseite</a></li>
-                <li><a href="#about">Über uns</a></li>
-                <li><a href="#products">Produkte</a></li>
-                <li><a href="#technology">Technologie</a></li>
-                <li><a href="#contact">Kontakt</a></li>
+                <li><a href="#" data-i18n="nav.home">Home</a></li>
+                <li><a href="#about" data-i18n="nav.about">About</a></li>
+                <li><a href="#products" data-i18n="nav.products">Products</a></li>
+                <li><a href="#technology" data-i18n="nav.technology">Technology</a></li>
+                <li><a href="#contact" data-i18n="nav.contact">Contact</a></li>
             </ul>
         </nav>
     </header>
 
     <main>
         <section class="hero">
-            <h1>Telemonit</h1>
-            <h2>Intelligente Videoanalyse am Edge</h2>
-            <p>Fortschrittliche Echtzeit-Videoanalytik kombiniert mit autonomen PORTIGEN-Stromversorgungsstationen.</p>
+            <h1 data-i18n="hero.title">Telemonit</h1>
+            <h2 data-i18n="hero.subtitle">Intelligent Video Analytics at the Edge</h2>
+            <p data-i18n="hero.description">Advanced real-time video analytics combined with autonomous PORTIGEN power stations.</p>
             <div class="cta-buttons">
-                <a href="#contact" class="btn primary">Demo vereinbaren</a>
-                <a href="#products" class="btn secondary">Lösungen entdecken</a>
+                <a href="#contact" class="btn primary" data-i18n="hero.demo">Schedule Demo</a>
+                <a href="#products" class="btn secondary" data-i18n="hero.solutions">Discover Solutions</a>
             </div>
         </section>
 
         <section class="features">
-            <h2>Innovative Technologie für Ihre Sicherheit</h2>
+            <h2 data-i18n="features.title">Innovative Technology for Your Security</h2>
             <div class="feature-grid">
                 <div class="feature-card">
-                    <h3>Lokale Videoanalyse</h3>
-                    <p>Latenzzeit unter 5ms</p>
+                    <h3 data-i18n="features.cards.analysis.title">Local Video Analysis</h3>
+                    <p data-i18n="features.cards.analysis.description">Latency under 5ms</p>
                 </div>
                 <div class="feature-card">
-                    <h3>Autonomer Betrieb</h3>
-                    <p>Wochenlanger Betrieb ohne Netzwerk und Stromversorgung</p>
+                    <h3 data-i18n="features.cards.operation.title">Autonomous Operation</h3>
+                    <p data-i18n="features.cards.operation.description">Weeks of operation without network and power supply</p>
                 </div>
                 <div class="feature-card">
-                    <h3>Intelligente Erkennung</h3>
-                    <p>Fortschrittliche Objekt- und Verhaltensanalyse</p>
+                    <h3 data-i18n="features.cards.detection.title">Intelligent Detection</h3>
+                    <p data-i18n="features.cards.detection.description">Advanced object and behavior analysis</p>
                 </div>
                 <div class="feature-card">
-                    <h3>Sofortige Benachrichtigungen</h3>
-                    <p>Unmittelbare Reaktion auf erkannte Ereignisse</p>
+                    <h3 data-i18n="features.cards.alerts.title">Instant Notifications</h3>
+                    <p data-i18n="features.cards.alerts.description">Immediate response to detected events</p>
                 </div>
             </div>
         </section>
     </main>
 
-    <footer>
-        <div class="footer-content">
-            <div class="footer-column">
-                <h4>Telemonit GmbH</h4>
-                <p>Technologiepark 1<br>15236 Frankfurt (Oder)</p>
-            </div>
-            <div class="footer-column">
-                <h4>Kontakt</h4>
-                <p>Tel: +49 335 000 00 00<br>Email: info@telemonit.com</p>
-            </div>
-            <div class="footer-column">
-                <h4>Navigation</h4>
-                <ul>
-                    <li><a href="#about">Über uns</a></li>
-                    <li><a href="#products">Produkte</a></li>
-                    <li><a href="#contact">Kontakt</a></li>
-                </ul>
-            </div>
-        </div>
-        <div class="footer-bottom">
-            <p>&copy; 2024 Telemonit GmbH. Alle Rechte vorbehalten.</p>
-        </div>
-    </footer>
+    <script src="js/i18n.js"></script>
 </body>
 </html>

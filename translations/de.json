@@ -1,0 +1,38 @@
+
+{
+  "nav": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "products": "Produkte",
+    "technology": "Technologie",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Telemonit",
+    "subtitle": "Intelligente Videoanalyse am Edge",
+    "description": "Fortschrittliche Echtzeit-Videoanalytik kombiniert mit autonomen PORTIGEN-Stromversorgungsstationen.",
+    "demo": "Demo vereinbaren",
+    "solutions": "Lösungen entdecken"
+  },
+  "features": {
+    "title": "Innovative Technologie für Ihre Sicherheit",
+    "cards": {
+      "analysis": {
+        "title": "Lokale Videoanalyse",
+        "description": "Latenzzeit unter 5ms"
+      },
+      "operation": {
+        "title": "Autonomer Betrieb",
+        "description": "Wochenlanger Betrieb ohne Netzwerk und Stromversorgung"
+      },
+      "detection": {
+        "title": "Intelligente Erkennung",
+        "description": "Fortschrittliche Objekt- und Verhaltensanalyse"
+      },
+      "alerts": {
+        "title": "Sofortige Benachrichtigungen",
+        "description": "Unmittelbare Reaktion auf erkannte Ereignisse"
+      }
+    }
+  }
+}
