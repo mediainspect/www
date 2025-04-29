@@ -1,0 +1,62 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Telemonit - Applications</title>
+    <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+    <div class="language-selector">
+        <select id="languageSelect" onchange="changeLanguage(this.value)">
+            <option value="en">English</option>
+            <option value="de">Deutsch</option>
+            <option value="pl">Polski</option>
+            <option value="ru">Русский</option>
+        </select>
+    </div>
+    <header>
+        <nav>
+            <div class="logo">
+                <img src="../images/logo.png" alt="Telemonit">
+            </div>
+            <ul>
+                <li><a href="../index.html" data-i18n="nav.home">Home</a></li>
+                <li><a href="about.html" data-i18n="nav.about">About</a></li>
+                <li><a href="products.html" data-i18n="nav.products">Products</a></li>
+                <li><a href="technology.html" data-i18n="nav.technology">Technology</a></li>
+                <li><a href="applications.html" data-i18n="nav.applications">Applications</a></li>
+                <li><a href="implementation.html" data-i18n="nav.implementation">Implementation</a></li>
+                <li><a href="contact.html" data-i18n="nav.contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="page-content">
+            <h1 data-i18n="applications.title">Applications</h1>
+            <div class="applications-grid">
+                <div class="application-card">
+                    <h3 data-i18n="applications.security.title">Security Monitoring</h3>
+                    <p data-i18n="applications.security.description">Advanced perimeter protection</p>
+                </div>
+                <div class="application-card">
+                    <h3 data-i18n="applications.industrial.title">Industrial Safety</h3>
+                    <p data-i18n="applications.industrial.description">Workplace safety monitoring</p>
+                </div>
+                <div class="application-card">
+                    <h3 data-i18n="applications.retail.title">Retail Analytics</h3>
+                    <p data-i18n="applications.retail.description">Customer behavior analysis</p>
+                </div>
+                <div class="application-card">
+                    <h3 data-i18n="applications.traffic.title">Traffic Monitoring</h3>
+                    <p data-i18n="applications.traffic.description">Smart traffic analysis</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <script src="../js/i18n.js"></script>
+</body>
+</html>

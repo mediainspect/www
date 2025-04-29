@@ -7,6 +7,48 @@
     "technology": "Technologia",
     "contact": "Kontakt"
   },
+  "nav": {
+    "applications": "Zastosowania",
+    "implementation": "Wdrożenie"
+  },
+  "applications": {
+    "title": "Zastosowania",
+    "security": {
+      "title": "Monitoring Bezpieczeństwa",
+      "description": "Zaawansowana ochrona obwodowa"
+    },
+    "industrial": {
+      "title": "Bezpieczeństwo Przemysłowe",
+      "description": "Monitoring bezpieczeństwa w miejscu pracy"
+    },
+    "retail": {
+      "title": "Analityka Handlowa",
+      "description": "Analiza zachowań klientów"
+    },
+    "traffic": {
+      "title": "Monitoring Ruchu",
+      "description": "Inteligentna analiza ruchu"
+    }
+  },
+  "implementation": {
+    "title": "Wdrożenie i Wsparcie",
+    "consultation": {
+      "title": "Konsultacje",
+      "description": "Ekspercka analiza wymagań"
+    },
+    "deployment": {
+      "title": "Wdrożenie",
+      "description": "Profesjonalna instalacja systemu"
+    },
+    "training": {
+      "title": "Szkolenia",
+      "description": "Kompleksowe szkolenia personelu"
+    },
+    "support": {
+      "title": "Wsparcie",
+      "description": "Całodobowe wsparcie techniczne"
+    }
+  },
   "products": {
     "title": "Nasze Produkty",
     "essential": {

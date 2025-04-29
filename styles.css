@@ -272,3 +272,31 @@ footer {
 .faq-item:hover {
     transform: translateY(-5px);
 }
+
+.implementation-grid,
+.applications-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    margin: 2rem 0;
+}
+
+.implementation-card,
+.application-card {
+    background: var(--light-gray);
+    padding: 2rem;
+    border-radius: 8px;
+    text-align: center;
+    transition: transform 0.2s;
+}
+
+.implementation-card:hover,
+.application-card:hover {
+    transform: translateY(-5px);
+}
+
+.implementation-card h3,
+.application-card h3 {
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+}
